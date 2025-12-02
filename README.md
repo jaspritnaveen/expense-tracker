@@ -26,7 +26,7 @@ It helps users to **record, manage, and visualize daily expenses** using a clean
 | ------------- | ------------------------------- |
 | Frontend      | React.js                        |
 | UI Components | React Bootstrap                 |
-| Charts        | Recharts / Chart.js             |
+| Charts        | Chart.js             |
 | Storage       | LocalStorage                    |
 | Export        | FileSaver.js / Papaparse        |
 | Deployment    | Vercel / Netlify / GitHub Pages |
