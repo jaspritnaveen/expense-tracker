@@ -20,7 +20,7 @@ It helps users to **record, manage, and visualize daily expenses** using a clean
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack i have used
 
 | Part          | Technology                      |
 | ------------- | ------------------------------- |
