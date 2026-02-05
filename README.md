@@ -20,15 +20,4 @@ It helps users to **record, manage, and visualize daily expenses** using a clean
 
 ---
 
-## 🧰 Tech Stack i have used
 
-| Part          | Technology                      |
-| ------------- | ------------------------------- |
-| Frontend      | React.js                        |
-| UI Components | React Bootstrap                 |
-| Charts        | Chart.js             |
-| Storage       | LocalStorage                    |
-| Export        | FileSaver.js / Papaparse        |
-| Deployment    | Vercel / Netlify / GitHub Pages |
-
----
